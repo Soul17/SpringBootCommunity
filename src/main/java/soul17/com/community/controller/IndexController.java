@@ -1,4 +1,4 @@
-package soul17.com.community.Controller;
+package soul17.com.community.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
