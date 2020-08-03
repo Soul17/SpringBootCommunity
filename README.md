@@ -8,6 +8,7 @@ https://v3.bootcss.com/
 https://developer.github.com/apps/building-oauth-apps/creating-an-oauth-app/
 http://www.h2database.com/html/main.html
 http://mybatis.org/spring-boot-starter/mybatis-spring-boot-autoconfigure/
+https://flywaydb.org/getstarted/
 
 ## sql脚本
 ```
